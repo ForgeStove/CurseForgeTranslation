@@ -7,8 +7,8 @@
 // @author      ForgeStove, KHML
 // @homepageURL  https://github.com/ForgeStove/CurseForgeTranslation
 // @license MIT
-// @downloadURL https://github.com/ForgeStove/CurseForgeTranslation/blob/main/CurseForgeTranslation.js
-// @updateURL https://github.com/ForgeStove/CurseForgeTranslation/blob/main/CurseForgeTranslation.js
+// @downloadURL https://raw.githubusercontent.com/ForgeStove/CurseForgeTranslation/refs/heads/main/CurseForgeTranslation.js
+// @updateURL https://raw.githubusercontent.com/ForgeStove/CurseForgeTranslation/refs/heads/main/CurseForgeTranslation.js
 // ==/UserScript==
 (function () {
 	'use strict';

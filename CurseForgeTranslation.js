@@ -2,7 +2,7 @@
 // @name        CurseForge页面汉化
 // @match       https://*.curseforge.com/*
 // @grant       none
-// @version     1.1.5
+// @version     1.1.6
 // @description 基于已有汉化的进一步全面汉化CurseForge Minecraft页面
 // @author      ForgeStove, KHML
 // @homepageURL  https://github.com/ForgeStove/CurseForgeTranslation
@@ -549,6 +549,8 @@
 		['Always keep in mind that each and every mod is completely free, so you can try them all until you find your favorite Minecraft mods and modpacks.', '请始终记住，每一个模组都是完全免费的，所以你可以全部尝试，直到找到你最喜欢的 Minecraft 模组和模组包。'],
 		['And of course, the important thing is to have fun with these Minecraft mods - using them to create a personalized game experience that\'s best for you.', '当然，重要的是玩这些 Minecraft 模组时要开心——用它们来创造最适合你自己的个性化游戏体验。'],
 		['Browse by', '浏览方式'],
+		['Client','客户端'],
+		['Server','服务端'],
 	])
 	const sortArr = [...i18n.entries()].sort((a, b) => b[0].length - a[0].length)
 	replaceText(document.body)
